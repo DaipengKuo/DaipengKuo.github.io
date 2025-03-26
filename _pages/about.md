@@ -13,4 +13,4 @@ My recent work "*Research on Facial Expression Recognition Based on Wide Attenti
 
 **Contact**:  
 [Email](mailto:DaipengKuo@163.com) / [GitHub](https://github.com/DaipengKuo)  
-*(WeChat QR code available upon request)*
+
